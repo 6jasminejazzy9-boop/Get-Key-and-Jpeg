@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360">
+  <rect width="1280" height="360" fill="#0a0a0a"/>
+  <rect x="14" y="14" width="1252" height="332" fill="none" stroke="#f5c542" stroke-width="3"/>
+  <rect x="24" y="24" width="1232" height="312" fill="none" stroke="#f5c542" stroke-opacity="0.4" stroke-width="1"/>
+  <!-- key -->
+  <g stroke="#f5c542" fill="none" stroke-width="13">
+    <circle cx="520" cy="138" r="42"/>
+    <line x1="552" y1="168" x2="742" y2="168"/>
+    <line x1="668" y1="168" x2="668" y2="204"/>
+    <line x1="716" y1="168" x2="716" y2="196"/>
+  </g>
+  <circle cx="520" cy="138" r="14" fill="#f5c542"/>
+  <text x="640" y="262" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="8" fill="#f5c542">GET KEY AND JPEG</text>
+  <text x="640" y="302" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="5" fill="#e8e3d5">THE KEY · THE DICTIONARY · THE EXTENSION — TOGETHER</text>
+  <text x="640" y="330" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4" fill="#8a8a8a">© SAMMY REED — AI WORKFLOW ENGINEER</text>
+</svg>

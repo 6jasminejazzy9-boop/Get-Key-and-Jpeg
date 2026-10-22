@@ -1,6 +1,24 @@
-# Get-Key-and-Jpeg
-Im making a shortcut to move data freeley in a world that is meant not to. Im using mostly Apple Shortcuts. 
+<p align="center">
+  <img src="assets/key-banner.svg" alt="Get Key and JPEG" width="100%">
+</p>
 
-Converting image to JPEG, keeping keys in my dictionaries and file extension so I know what platform uses what keys.. 
+# Get Key and JPEG
 
-i have big plans. 
+A small utility for moving data freely with Apple Shortcuts:
+convert an image to JPEG, and keep the key, the dictionary, and
+the file extension together — so you always know which platform
+uses which keys.
+
+Built by Sammy Reed, AI Workflow Engineer.
+
+## What's in this repo
+
+- `data_handler.py` — the helper functions: `save_data` and
+  `save_jpeg`.
+- This README.
+
+## Stage
+
+The July 2026 seed of Sammy's key-and-dictionary utility work.
+The project continues in the workshop; finished pieces will be
+shelved here as they complete.
